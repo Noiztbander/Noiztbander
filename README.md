@@ -1,16 +1,16 @@
 <h1 align="center">Hi There, I'm Erick Noiztbander </h1>
 <h3 align="center"> 🖥️ Full-Stack Developer | ✏️ Art director | 📷 3D modeler </h3>
 
-<!-- [![Artstation Website](./assets/img/Logo_3.png)](https://www.artstation.com/noiztbander) -->
+[![Artstation Website](./assets/img/Logo-gif.gif)](https://www.artstation.com/noiztbander)
 
-## Used to be Art director, Game-developer, Artist, and Tattooist!!
+## Used to be an Art director for games, Graphic designer, 3D modeler and Tattooist!!
 
 - 🔭 I’m currently working on my 3D website portfolio
 - 🌱 I’m currently learning Three Js library
 - 👯 I’m looking to collaborate on Tech Startups
 - 💬 Ask me about Art, 3D, Illustration, Video-games, Front-end, Business ideas
 - 📫 How to reach me: noiztbander.com
-- ⚡ Fun fact: I love to paint with oil and read books
+- ⚡ Fun fact: I love to listen ghost stories
 
 ### Connect with me:
 
