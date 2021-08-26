@@ -1,4 +1,4 @@
-<h1 align="center">Hi There, I'm Erick Noiztbander </h1>
+<h1 align="center">Nice to meet you, I'm Erick Noiztbander </h1>
 <h3 align="center"> 🖥️ Full-Stack Developer | 🖋 Art director | 🛸 3D modeler </h3>
 
 [![Artstation Website](./assets/img/Logo-gif.gif)](https://www.artstation.com/noiztbander)
