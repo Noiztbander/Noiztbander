@@ -1,5 +1,5 @@
 <h1 align="center">Hi There, I'm Erick Noiztbander </h1>
-<h3 align="center"> 🖥️ Full-Stack Developer | ✏️ Art director | 📷 3D modeler </h3>
+<h3 align="center"> 🖥️ Full-Stack Developer | 🖋 Art director | 🛸 3D modeler </h3>
 
 [![Artstation Website](./assets/img/Logo-gif.gif)](https://www.artstation.com/noiztbander)
 
@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Three Js library
 - 👯 I’m looking to collaborate on Tech Startups
 - 💬 Ask me about Art, 3D, Illustration, Video-games, Front-end, Business ideas
-- 📫 How to reach me: noiztbander.com
+- 📫 How to reach me: erick.noiztbander@gmail.com
 - ⚡ Fun fact: I love to listen ghost stories
 
 ### Connect with me:
