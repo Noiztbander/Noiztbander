@@ -65,9 +65,3 @@
 [instagram]: https://www.instagram.com/noiztbanderart/
 [linkedin]: https://www.linkedin.com/in/noiztbander/
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=noiztbander&count_private=true&hide=stars&show_icons=true&theme=react&hide_border=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noiztbander&count_private=true&show_icons=true&theme=react&hide_border=true&layout=compact" />
-</a>
